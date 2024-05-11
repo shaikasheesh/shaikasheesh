@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning **about LLM's**
 
-💬 Ask me about **Machine Learning, Deep Learning, Time Series & NLP**
+💬 Ask me about **Statistics, Machine Learning, Deep Learning, Time Series, NLP, MLOPS & GenAI**
 
 📫 How to reach me **shaikasheesh99@gmail.com**
 
