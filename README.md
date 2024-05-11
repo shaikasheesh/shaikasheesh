@@ -8,7 +8,7 @@
 
 💬 Ask me about **Statistics, Machine Learning, Deep Learning, Time Series, NLP, MLOPS & GenAI**
 
-📫 How to reach me **shaikasheesh99@gmail.com**
+📫 Reach me on **shaikasheesh99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
