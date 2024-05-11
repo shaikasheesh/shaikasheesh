@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikasheesh&label=Profile%20views&color=0e75b6&style=flat" alt="shaikasheesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaikasheesh" alt="shaikasheesh" /></a> </p>
-
 - 🔭 I’m currently working in Course5I as Lead Data Scientist
 
 - 🌱 I’m currently learning **about LLM's**
